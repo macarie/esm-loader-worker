@@ -1,0 +1,12 @@
+{
+  "name": "esm-loader-worker",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "esbuild": "^0.12.17"
+  },
+  "devDependencies": {
+    "@types/node": "^16.4.8"
+  }
+}
